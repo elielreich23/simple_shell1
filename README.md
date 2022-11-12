@@ -2,7 +2,7 @@
 ======================
 
 -   By Julien Barbier
--   Project to be done in teams of 2 people (your team:ELIEL DOUNA, Clement Clement)
+-   Project to be done in teams of 2 people (your team: ELIEL DOUNA, Clement Clement)
 Concepts
 --------
 
