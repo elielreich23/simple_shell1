@@ -4,7 +4,7 @@
  * shell_utils - to handle charactes
  * Author: Eliel Douna
  * Clement Clement
-  parse_command - determines the type of the command
+ * parse_command - determines the type of the command
  * @command: command to be parsed
  *
  * Return: constant representing the type of the command

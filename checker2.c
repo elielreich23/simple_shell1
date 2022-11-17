@@ -7,7 +7,7 @@
  *@delim: delimiter to be used to tokenize the string
  *@save_ptr: pointer to be used to keep track of the next token
  *
- *Return: The next available token
+ * Return: The next available token
  */
 char *_strtok_r(char *string, char *delim, char **save_ptr)
 {

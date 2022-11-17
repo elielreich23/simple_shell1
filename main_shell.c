@@ -14,7 +14,7 @@
  * applies the functions in utils and helpers
  * implements EOF
  * Prints error on Failure
- * Return: 0 on success
+ *Return: 0 on success
  */
 
 

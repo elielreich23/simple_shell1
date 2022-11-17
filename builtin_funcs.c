@@ -4,7 +4,7 @@
  *env - prints the current_environnement
  *@tokenized_command: command entered
  *
- *Return: void
+ * Return: void
  */
 
 void env(char **tokenized_command __attribute__((unused)))
