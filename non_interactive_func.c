@@ -3,7 +3,7 @@
 /**
  * non_interactive - handles non_interactive mode
  *
- *Return: void
+ *Return: Null
 */
 
 void non_interactive(void)

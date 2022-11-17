@@ -13,7 +13,7 @@
  * INTERNAL_COMMAND (2) represents commands like exit, env
  * PATH_COMMAND (3) represents commands found in the PATH like ls
  * INVALID_COMMAND (-1) represents invalid commands
- */
+*/
 
 int parse_command(char *command)
 {
@@ -123,8 +123,7 @@ char *check_path(char *command)
 
 /**
  * get_func - retrieves a function based on the command given and a mapping
- * @command: string to check against the mapping
- *
+ * @command: string to check against the mapping.
  * Return: pointer to the proper function, or null on fail
  */
 void (*get_func(char *command))(char **)
@@ -167,4 +166,3 @@ char *_getenv(char *name)
 	}
 	return (NULL);
 }
-
