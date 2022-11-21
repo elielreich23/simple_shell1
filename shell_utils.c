@@ -1,12 +1,15 @@
 #include "shell.h"
 
 /**
- * shell_utils - to handle charactes
  * Author: Eliel Douna
- * Clement Clement
- * parse_command - determines the type of the command
- * @command: command to be parsed
+ * 		 Clement Clement
  *
+ * Description:
+ * the extended functions for main.c
+ */
+
+ /* parse_command - determines the type of the command
+ * @command: command to be parsed
  * Return: constant representing the type of the command
  * Description -
  * EXTERNAL_COMMAND (1) represents commands like /bin/ls
